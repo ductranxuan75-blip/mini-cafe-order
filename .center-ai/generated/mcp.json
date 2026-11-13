@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "center-ai-knowledge": {
+      "command": "node",
+      "args": [
+        "c:\\Users\\MSI\\.vscode\\extensions\\markeeai.center-ai-vscode-0.8.0\\resources\\mcp-server.js"
+      ]
+    }
+  }
+}
