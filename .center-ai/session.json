@@ -1,9 +1,9 @@
 {
-  "work_session_id": "ws_a4619171-1f45-457b-945f-ca86e9621e8e",
-  "tool_session_id": "ts_38106e2a-1e91-4dea-a28e-28c7bea18287",
-  "task_id": "task_8fe36031-0745-409e-8410-4fc41c4ebc03",
+  "work_session_id": "ws_592e700a-f31b-40b4-9cda-71318348580c",
+  "tool_session_id": "ts_56c9506a-859c-454d-b9d2-de407949d230",
+  "task_id": "task_4abb1370-8ff2-4e6c-911a-d2b87ceb3e53",
   "project_id": "proj_mini_cafe_order_i520",
   "seat_id": "seat_demo",
-  "started_head_commit": "",
-  "branch": ""
+  "started_head_commit": "516958de8e6110c4a0ee0d2c9748c15f9285439d",
+  "branch": "master"
 }

@@ -1,9 +1,9 @@
-# Task: Màn hình khách đặt món: chọn cà phê, lượng đường và đá
+# Task: Màn hình Barista nhận đơn và cập nhật trạng thái pha chế
 
 Project: Mini Cafe Order
 Status: in_progress
 
 ## Tiêu chí hoàn thành (Definition of Done)
 
-Khách chọn được món (Cafe đen, Nâu lắc, Bạc xỉu), chọn tỷ lệ đường/đá, bấm Đặt đơn và đơn được lưu vào danh sách. Giá là số nguyên VNĐ
+Hiển thị danh sách đơn khách vừa đặt; có nút chuyển "Đang pha" và "Đã pha xong"; không cho huỷ đơn khi đang pha.
 
